@@ -11,7 +11,7 @@ include('config/dbcon.php');
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="shortcut icon" type="image/png" href="img/icon.png" />
-
+ 
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap"
       rel="stylesheet"
@@ -392,7 +392,7 @@ include('config/dbcon.php');
         <a
           class="footer__link twitter-link"
           target="_blank"
-          href="https://github.com/faizayyub157/bank.git"
+          href="https://github.com/faizayyub157/bank-webpage.git"
           >Faiz Ayyub</a
         >
       </p>
